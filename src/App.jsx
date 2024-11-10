@@ -6,8 +6,7 @@ function App() {
 
   return (
     <div>
-      hi thier
-    </div>
+      hellow sunny bosdi walaa kutaaa bhabhi kko aachi nazar se dekho karo    </div>
   )
 }
 
